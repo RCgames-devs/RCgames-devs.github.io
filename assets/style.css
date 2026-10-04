@@ -1,8 +1,8 @@
-/* RCgames site styles (blue & black theme) */
+/* RCgames site styles (blue & black theme) - enhanced glow */
 :root{
   --bg:#000000; /* black */
-  --accent:#0a66ff; /* vivid blue */
-  --accent-dark:#054ecf;
+  --accent:#0a84ff; /* vivid blue */
+  --accent-dark:#00b0ff; /* lighter blue */
   --text:#ffffff;
   --muted:rgba(255,255,255,0.8);
 }
@@ -27,7 +27,9 @@ html,body{
   height:84px;
   object-fit:contain;
   border-radius:12px;
-  box-shadow:0 6px 18px rgba(10,102,255,0.12);
+  background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  box-shadow:0 12px 40px rgba(10,132,255,0.45), 0 0 90px rgba(10,132,255,0.28);
+  filter: drop-shadow(0 0 18px rgba(10,132,255,0.9));
 }
 
 .site-title{
@@ -52,6 +54,7 @@ html,body{
 }
 
 .menu-item{
+  position:relative;
   display:flex;
   align-items:center;
   gap:16px;
@@ -59,27 +62,50 @@ html,body{
   background:linear-gradient(90deg,var(--accent),var(--accent-dark));
   color:var(--text);
   text-decoration:none;
-  border-radius:12px;
-  box-shadow:0 8px 24px rgba(10,102,255,0.14);
+  border-radius:14px;
+  box-shadow:0 12px 30px rgba(10,132,255,0.22), 0 0 40px rgba(10,132,255,0.14);
   transition:transform .14s ease, box-shadow .14s ease;
+  overflow:visible;
+  border:1px solid rgba(255,255,255,0.03);
+}
+
+/* soft outer glow */
+.menu-item::before{
+  content:"";
+  position:absolute;
+  left:-6px; right:-6px; top:-6px; bottom:-6px;
+  border-radius:18px;
+  background:linear-gradient(90deg, rgba(10,132,255,0.28), rgba(0,176,255,0.22));
+  filter:blur(20px);
+  opacity:0.9;
+  z-index:-1;
 }
 
 .menu-item:hover{
-  transform:translateY(-4px);
-  box-shadow:0 20px 40px rgba(10,102,255,0.18);
+  transform:translateY(-6px);
+  box-shadow:0 28px 60px rgba(10,132,255,0.32), 0 0 120px rgba(10,132,255,0.28);
 }
 
 .menu-icon{
   width:56px;
   height:56px;
   object-fit:cover;
-  border-radius:10px;
+  border-radius:12px;
   background:rgba(0,0,0,0.12);
+  box-shadow:0 8px 30px rgba(10,132,255,0.18), 0 0 40px rgba(10,132,255,0.16);
+  filter: drop-shadow(0 6px 18px rgba(10,132,255,0.9));
 }
 
 .menu-text{
   font-size:18px;
-  font-weight:600;
+  font-weight:700;
+  text-shadow:0 2px 10px rgba(10,132,255,0.12);
+}
+
+/* stronger glow on hover for icon */
+.menu-item:hover .menu-icon{
+  box-shadow:0 14px 50px rgba(10,132,255,0.34), 0 0 110px rgba(10,132,255,0.32);
+  transform:translateY(-2px);
 }
 
 @media (min-width:900px){
