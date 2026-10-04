@@ -1,5 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: My Portfolio Site
-description: Welcome to my repository website!
+title: Site Updates
+description: Site is still under construction if you found this site by accident please make a new tab and close the active one, if an link sent you here from Social Media, random numbers, or an email please report it immedeitally
