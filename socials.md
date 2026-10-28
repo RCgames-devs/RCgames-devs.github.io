@@ -9,13 +9,7 @@ Connect with the RCgames development team across our official social media accou
 ## 🌐 Links
 
 * [Join our Discord Server](https://discord.gg/Z5v2N4hjAy)
-* [Subscribe on YouTube](https://youtube.com)
-* [Follow on X / Twitter](https://x.com)
-* [Follow on Instagram](https://instagram.com)
+* [Subscribe on YouTube](https://www.youtube.com/@RCGamesOfficialChannel)
+* [Follow us on itch.io](https://rcgamesofficial.itch.io)
 
 ---
-
-## 💻 Development
-
-* [Follow our GitHub Organization](https://github.com)
-* [Browse our Open Source Repositories](https://github.com?tab=repositories)
