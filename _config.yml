@@ -1,6 +1,8 @@
-theme: jekyll-theme-minima
-title: "Your Name"
-description: "Welcome to my personal website"
+title: "blank text"
+description: "blank text"
+
+sass:
+  style: :compressed
 
 
 header_pages:
