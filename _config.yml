@@ -1,3 +1,10 @@
 theme: jekyll-theme-minima
-title: "RC Games"
-description: "Welcome to the RC Games Website"
+title: "Your Name"
+description: "Welcome to my personal website"
+
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
