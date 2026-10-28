@@ -1,4 +1,5 @@
 ---
-layout: home
-title: "Welcome to the RC Games Website"
+layout: page
+title: "Home"
+permalink: /
 ---
