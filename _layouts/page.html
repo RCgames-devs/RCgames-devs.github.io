@@ -82,7 +82,7 @@
 
     <!-- CUSTOM NAVIGATION BAR -->
     <header class="site-header">
-        <div class="logo">{{ RC.Games }}</div>
+        <div class="logo">{{ site.title }}</div>
         <nav class="nav-links">
             <a href="/">Home</a>
             <a href="/releases">Releases</a>
@@ -95,13 +95,13 @@
 
     <!-- CONTENT INJECTION MODULE -->
     <main class="main-content">
-        <h1>{{ RC.Games }}</h1>
+        <h1>{{ site.title }}</h1>
         {{ content }}
     </main>
 
     <!-- FOOTER TERMINAL -->
     <footer class="site-footer">
-        <p>&copy; 2026-2027 {{ RC.Games }}. All rights reserved.</p>
+        <p>&copy; 2026-2027 {{ site.title }}. All rights reserved.</p>
     </footer>
 
 </body>
