@@ -5,12 +5,25 @@ permalink: /
 ---
 
 # Welcome to the RC Games Website!
-## Here you can download our latest games, view our new releases, view our social media, or get game help or support our idea
+## Here you can download our latest games, view our new releases, view our social media, or get game help or support our project
+
 
 ## 🔥 Trending Games
 
 ### NO TRENDING GAMES
-
 ---
 
-###
+## 👑 Discord Member of the Week
+
+### NO MEMBER OF THE WEEK
+---
+
+## 💰 Donater of the Week
+
+### NO DONATOR OF THE WEEK
+---
+
+## 💾 Most Popular Updates This Month
+
+### NO POPULAR UPDATES THIS MONTH
+---
