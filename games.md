@@ -24,4 +24,4 @@ Welcome to the RCgames catalog. Explore our library of independent video games, 
 
 All of our projects are maintained and updated independently. If you encounter any performance issues or bugs while playing, please let us know through the links in Help and Support Us:
 
-* [Report a Game Bug or Issue](/help_and_support_us)
+* [Report a Game Bug or Issue](/support)
