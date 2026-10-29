@@ -4,7 +4,7 @@ title: "Help and Support"
 permalink: /support
 ---
 
-Need help with an RCgames project or want to contribute to our ongoing development? Find all of our technical resources and support links below.
+Need help with one of our games or want to contribute to our ongoing development? Find all of our technical resources and support links below.
 
 ## 🛠️ Technical Assistance & Bug Reports
 
@@ -19,12 +19,12 @@ If you are experiencing crashes, performance issues, or unexpected bugs, please 
 
 To get in touch with our staff, get game tips, or get game reviews, join the discord
 
-* [community discord](https://discord.gg/Z5v2N4hjAy)
+* [Our Discord](https://discord.gg/Z5v2N4hjAy)
 
 ---
 
 ## ☕ Support Our Work
 
-RCgames projects are built independently. If you enjoy our games, consider supporting our development directly by donating 5-10 dollars to our CashApp:
+RC Games projects are built independently. If you enjoy our games, consider supporting our development directly by donating 5-10 dollars to our CashApp:
 
 *[Our Cashapp](https://cash.app/$rcgamesofficial)
