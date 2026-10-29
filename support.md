@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Help and Support Us"
-permalink: /help_and_support_us
+permalink: /support
 ---
 
 Need help with one of our games or want to contribute to our ongoing development? Find all of our technical resources and support links below.
