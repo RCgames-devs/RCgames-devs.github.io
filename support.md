@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Help and Support"
-permalink: /support
+title: "Help and Support Us"
+permalink: /help_and_support_us
 ---
 
 Need help with one of our games or want to contribute to our ongoing development? Find all of our technical resources and support links below.
@@ -25,6 +25,6 @@ To get in touch with our staff, get game tips, or get game reviews, join the dis
 
 ## ☕ Support Our Work
 
-RC Games projects are built independently. If you enjoy our games, consider supporting our development directly by donating 5-10 dollars to our CashApp:
+RC Games projects are built independently. If you enjoy our games, consider supporting our development directly by donating 1-10 dollars to our CashApp:
 
 * [Our Cashapp](https://cash.app/$rcgamesofficial)
